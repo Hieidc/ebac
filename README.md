@@ -1,2 +1,2 @@
 # ebac
-aula
+Essa aplicação estaremos criando um arquivo chamado gasolina.py aonde estaremos gerando uma tabela de dia e preço da gasolina na cidade de São Paulo, estaremos utilizando as bibliotecas PANDAS, SEABORN E MATPLOTLIB para a geração de um grafico de linhas.
